@@ -1,0 +1,19 @@
+{
+  "key.category.macrokit.macros": "MacroKit",
+  "key.macrokit.record": "Start/stop recording",
+  "key.macrokit.play_last": "Replay last macro",
+  "key.macrokit.stop": "Stop macro",
+  "key.macrokit.menu": "Open menu",
+  "key.macrokit.fastclick": "Toggle Fast Right Click",
+  "key.macrokit.xray": "Toggle xray",
+  "key.macrokit.slot.1": "Macro slot 1",
+  "key.macrokit.slot.2": "Macro slot 2",
+  "key.macrokit.slot.3": "Macro slot 3",
+  "key.macrokit.slot.4": "Macro slot 4",
+  "key.macrokit.slot.5": "Macro slot 5",
+  "key.macrokit.slot.6": "Macro slot 6",
+  "key.macrokit.slot.7": "Macro slot 7",
+  "key.macrokit.slot.8": "Macro slot 8",
+  "key.macrokit.slot.9": "Macro slot 9",
+  "key.macrokit.fastclick_hold": "Fast Click while held (hold key)"
+}

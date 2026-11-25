@@ -1,0 +1,19 @@
+{
+  "key.category.macrokit.macros": "MacroKit",
+  "key.macrokit.record": "Aufnahme starten/beenden",
+  "key.macrokit.play_last": "Letztes Macro wiederholen",
+  "key.macrokit.stop": "Macro stoppen",
+  "key.macrokit.menu": "Menü öffnen",
+  "key.macrokit.fastclick": "Fast Right Click umschalten",
+  "key.macrokit.xray": "Xray an/aus",
+  "key.macrokit.slot.1": "Macro-Slot 1",
+  "key.macrokit.slot.2": "Macro-Slot 2",
+  "key.macrokit.slot.3": "Macro-Slot 3",
+  "key.macrokit.slot.4": "Macro-Slot 4",
+  "key.macrokit.slot.5": "Macro-Slot 5",
+  "key.macrokit.slot.6": "Macro-Slot 6",
+  "key.macrokit.slot.7": "Macro-Slot 7",
+  "key.macrokit.slot.8": "Macro-Slot 8",
+  "key.macrokit.slot.9": "Macro-Slot 9",
+  "key.macrokit.fastclick_hold": "Dauerklick (Taste halten)"
+}
